@@ -1,0 +1,8 @@
+{
+  "name": "VSA Netflix Edition - Área de Membros",
+  "description": "Uma plataforma de cursos premium inspirada no design da Netflix, com sistema de login, trilhas de aprendizagem e integração com IA para suporte ao aluno.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
